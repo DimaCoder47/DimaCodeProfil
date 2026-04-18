@@ -1,20 +1,15 @@
 {
+  "name": "ProfilCode",
   "short_name": "ProfilCode",
-  "name": "Dima Profil Code",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000",
+  "theme_color": "#000",
   "icons": [
     {
       "src": "android-chrome-192x192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "android-chrome-512x512.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "192x192",
+      "type": "image/png"
     }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "background_color": "#1e1e1e",
-  "theme_color": "#1e1e1e"
+  ]
 }
